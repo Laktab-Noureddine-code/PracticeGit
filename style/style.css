@@ -9,3 +9,21 @@ body{
     background-size: cover;
     background-position: center;
 }
+.nav-bare{
+    width: 100%;
+    background-color: rgba(11, 11, 11, 0.335);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-bare ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    color: white;
+    width: 70%;
+    font-size: 23px;
+    font-family: sans-serif;
+}
